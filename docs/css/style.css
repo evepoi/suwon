@@ -14,6 +14,8 @@
 #con_left {float: left; width: 50%; height: 770px;}
 #con_right {float: left; width: 50%; height: 770px;}
 #con_bot {clear: both; width: 100%; max-width: 900px; margin: 30px auto;}
+#con_arttop {clear: both; width: 100%; max-width: 900px; margin: 30px auto;}
+#con_artbot {clear: both; width: 100%; max-width: 900px; margin: 30px auto;}
 #footer {clear: both;width: 100%; height: 25px;}
 
 /* 컨테이너 */
