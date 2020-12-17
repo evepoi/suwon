@@ -40,7 +40,7 @@
 .topnav li a {display: inline-block; transition: color 0.5s ease; font-size: 40px;}
 .artlistnav li a:hover {color:#827717;}
 .artlistnav {text-align: center;}
-.artlistnav li {float: left; width: 10%; margin: 1%;}
+.artlistnav li {float: left; width: 23%; margin: 1%;}
 .artlistnav li a {display: inline-block; transition: color 0.5s ease; font-size: 20px;}
 .artlistnav li a:hover {color:#827717;}
 
